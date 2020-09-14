@@ -53,3 +53,23 @@ Now I am just in process of finding my path in live, so I am searching for new e
 ***
 
 ;(
+
+### Education
+
+***
+
+#### RTU MIREA, Moscow (2018-...)
+
+Institute of Economics and law, Innovation \
+
+Major: economy, management, new technologies
+
+
+
+### Languages
+
+***
+
+* English: **B2**
+
+* Chinese: **HSK1-2**
