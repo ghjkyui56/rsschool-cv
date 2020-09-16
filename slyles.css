@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap');
+
+
+body {
+    background: #b0c8ff;
+    font-family: "Montserrat", sans-serif;
+}
+
+.resume {
+    width: 800px;
+    height: auto;
+    background: #e4eaff;
+    margin: 50px auto;
+    display: flex;
+}
+
+.resume .resume_left {
+    width: 280px;
+    background: #2773ff;
+    color: white;
+}
+
+.resume .resume_left .resume_profile {
+    width: 100%;
+    height: 200px;
+}
+
+.resume .resume_left .resume_profile .img {
+    margin-top: 30px;
+}
+
+.resume .resume_left .resume_content {
+    padding: 0 5px 0 25px;
+    font-size: 14px;
+}
+
+.border {
+    border: 2px solid #b0c8ff;
+    text-align: center;
+    margin: 0 30px 0 0;
+    padding: 3px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.resume .resume_left .resume_content .resume_education .edu {
+    margin: 10px 0 0 0;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.resume .resume_left .resume_content .resume_education .edu_year {
+    margin: 1px 0 0 0;
+    font-size: 15px;
+}
+
+.resume_right {
+    padding: 25px;
+    width: 520px;
+
+    
+}
+
+
